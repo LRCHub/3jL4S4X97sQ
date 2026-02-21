@@ -1,0 +1,47 @@
+# Billy Joel – Vienna
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.44] Slow down you crazy child
+[00:18.92] You're so ambitious for a juvenile
+[00:22.55] But then if you're so smart tell me
+[00:24.80] Why are you still so afraid? (mmmmm)
+[00:42.80] 
+[00:30.68] Where's the fire, what's the hurry about?
+[00:34.06] You better cool it off before you burn it out
+[00:37.78] You got so much to do and only
+[00:40.34] So many hours in a day (Ay)
+[00:53.84] 
+[00:46.28] But you know that when the truth is told
+[00:49.42] That you can get what you want
+[00:51.05] Or you can just get old
+[00:53.76] You're gonna kick off before you even get halfway through (Oooh)
+[00:59.91] When will you realize, Vienna waits for you?
+[01:21.91] 
+[01:08.26] Slow down you're doing fine
+[01:12.05] You can't be everything you want to be before your time
+[01:16.33] Although it's so romantic on the borderline tonight (tonight)
+[01:46.83] 
+[01:24.18] Too bad, but it's the life you lead
+[01:28.14] You're so ahead of yourself that you forgot what you need
+[01:31.59] Though you can see when you're wrong
+[01:33.42] You know you can't always see when you're right (you're right)
+[02:04.42] 
+[01:39.34] You got your passion, you got your pride
+[01:43.18] But don't you know that only fools are satisfied?
+[01:46.75] Dream on, but don't imagine they'll all come true (Oooh)
+[01:53.93] When will you realize, Vienna waits for you?
+[02:15.93] 
+[02:17.94] Slow down you crazy child
+[02:21.68] Take the phone off the hook and disappear for a while
+[02:25.95] It's alright, you can afford to lose a day or two (oooh)
+[02:33.35] When will you realize, Vienna waits for you?
+[02:55.35] 
+[02:43.18] And you know that when the truth is told
+[02:46.02] That you can get what you want or you can just get old
+[02:50.31] You're gonna kick off before you even get halfway through (oooh)
+[02:56.91] Why don't you realize, Vienna waits for you?
+[03:18.91] 
+[03:04.94] When will you realize, Vienna waits for you?
+```
