@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Vienna",
+  "base_artist": "Billy Joel",
+  "createdAt": "2026-02-21T03:36:33.285941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vienna",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/01_Vienna_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vienna Calling",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/02_Vienna_Calling_Falco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vienna Calling (Tourist Version)",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/03_Vienna_Calling_(Tourist_Version)_Falco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vienna",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/04_Vienna_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vienna Calling",
+      "artist": "Falco",
+      "has_synced": false,
+      "path": "select/05_Vienna_Calling_Falco.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Before the Creation of Time - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/06_Before_the_Creation_of_Time_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bloodbath - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/07_Bloodbath_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breaking the Law - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/08_Breaking_the_Law_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Countess Bathory - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/09_Countess_Bathory_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dead Forever - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/10_Dead_Forever_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If They Had Eyes - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/11_If_They_Had_Eyes_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Into Glory Ride - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/12_Into_Glory_Ride_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Ending Hate - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/13_Never_Ending_Hate_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Onward into Countless Battles - live in Vienna, January 19th 1993",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/14_Onward_into_Countless_Battles_-_live_in_Vienna,_January_19th_1993_Unleashed.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vienna",
+      "artist": "Billy Joel",
+      "has_synced": false,
+      "path": "select/pl_01_Vienna_Billy_Joel.txt"
+    }
+  ]
+}
